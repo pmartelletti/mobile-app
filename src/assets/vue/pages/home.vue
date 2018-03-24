@@ -4,7 +4,7 @@
             <f7-nav-left>
                 <f7-link class="panel-open" open-panel="left" icon="fa fa-bars"></f7-link>
             </f7-nav-left>
-            <div class="title">Framework7-Vue</div>
+            <div class="title">Framework7-Vue Hello!</div>
             <f7-nav-right>
                 <f7-link class="searchbar-enable" data-searchbar=".searchbar-components" icon="fa fa-search"></f7-link>
             </f7-nav-right>
@@ -16,7 +16,7 @@
         </f7-block>
         <f7-block-title class="searchbar-found">Links</f7-block-title>
         <f7-list class="components-list searchbar-found">
-            <f7-list-item link="/about/" title="About" panel-close>
+            <f7-list-item link="/dashboard/" title="Dashboard" panel-close>
                 <f7-icon slot="media" icon="fa fa-info fa-fw"></f7-icon>
             </f7-list-item>
             <f7-list-item link="/form/" title="Form" panel-close>

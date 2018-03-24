@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ae98713-4276-44ab-84ef-58eae0355bbe" name="Default" comment="" />
+    <list default="true" id="1ae98713-4276-44ab-84ef-58eae0355bbe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/Framework7Icons-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/Framework7Icons-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/Framework7Icons-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/Framework7Icons-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/bc10cc48f946556b54c1.main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/Framework7Icons-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/Framework7Icons-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/Framework7Icons-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/Framework7Icons-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/bc10cc48f946556b54c1.main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/styles.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/vue/pages/home.vue" afterPath="$PROJECT_DIR$/src/assets/vue/pages/home.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="$PROJECT_DIR$/src/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +43,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
+      <file leaf-file-name="dashboard.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/dashboard.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1327">
-              <caret line="167" column="48" lean-forward="true" selection-start-line="167" selection-start-column="48" selection-end-line="167" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="130">
+              <caret line="35" column="70" lean-forward="false" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#f7-col#0;n#f7-row#0;n#f7-page#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#f7-col#0;n#f7-row#0;n#f7-page#0;n#template#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,7 +61,25 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>it s</find>
+      <find>links</find>
+      <find>lin</find>
+      <find>introd</find>
+      <find>card</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/assets/vue/pages/home.vue" />
+        <option value="$PROJECT_DIR$/src/assets/vue/pages/profile.vue" />
+        <option value="$PROJECT_DIR$/src/assets/vue/pages/transactions.vue" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/assets/vue/pages/dashboard.vue" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -44,12 +91,17 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/platforms/browser/cordova/node_modules" />
+    <handled-path value="$PROJECT_DIR$/platforms/ios/cordova/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1278" />
     <option name="height" value="1413" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -70,44 +122,39 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members-test-app-f7-phonegap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members-test-app-f7-phonegap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members-test-app-f7-phonegap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members-test-app-f7-phonegap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members-test-app-f7-phonegap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members-test-app-f7-phonegap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="mobile-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="mobile-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
@@ -121,6 +168,9 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,37 +195,39 @@
       <option name="presentableId" value="Default" />
       <updated>1521814752496</updated>
       <workItem from="1521814753741" duration="363000" />
+      <workItem from="1521899625899" duration="8003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363000" />
+    <option name="totallyTimeSpent" value="8366000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1278" height="1413" extended-state="0" />
+    <frame x="0" y="-3" width="1366" height="771" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23352855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -185,23 +237,199 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="true" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1521812251000" expanded="true" signature="21:508" ph="..." />
-            <marker date="1521812251000" expanded="true" signature="28:414" ph="..." />
-            <marker date="1521812251000" expanded="true" signature="421:500" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1327">
-          <caret line="167" column="48" lean-forward="true" selection-start-line="167" selection-start-column="48" selection-end-line="167" selection-end-column="48" />
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="true" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521896955294" expanded="true" signature="9:290" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="45:278" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="113:200" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="299:385" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="316:376" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="332:373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding>
+            <marker date="1521896955294" expanded="true" signature="505:583" ph="//..." />
+            <marker date="1521896955294" expanded="true" signature="887:959" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="1000:1187" ph="{&quot;el&quot;: '##app'...}" />
+            <marker date="1521896955294" expanded="true" signature="1082:1096" ph="{&quot;app&quot;: app...}" />
+            <marker date="1521896955294" expanded="true" signature="1112:1174" ph="{&quot;id&quot;: 'io.framework7.testapp'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <marker date="1521896955294" expanded="true" signature="498:4244" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="517:2760" ph="{&quot;entry&quot;: entryFile...}" />
+            <marker date="1521896955294" expanded="true" signature="559:986" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="680:980" ph="{&quot;vue$&quot;: 'vue/dist/vue.common.js'...}" />
+            <marker date="1521896955294" expanded="true" signature="1005:1190" ph="{&quot;filename&quot;: '[hash].[name].js'...}" />
+            <marker date="1521896955294" expanded="true" signature="1209:2132" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="1224:2126" ph="[...]" />
+            <marker date="1521896955294" expanded="true" signature="2152:2756" ph="[...]" />
+            <marker date="1521896955294" expanded="true" signature="2185:2349" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="2210:2341" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="2380:2749" ph="{&quot;filename&quot;: 'index.html'...}" />
+            <marker date="1521896955294" expanded="true" signature="2488:2741" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="2838:3127" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="2991:3122" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="3046:3115" ph="{&quot;fallback&quot;: &quot;style-loader&quot;...}" />
+            <marker date="1521896955294" expanded="true" signature="3142:4221" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="3207:3919" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="3242:3314" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="3339:3445" ph="[...]" />
+            <marker date="1521896955294" expanded="true" signature="3544:3851" ph="{&quot;port&quot;: devServerPort...}" />
+            <marker date="1521896955294" expanded="true" signature="3678:3743" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="3762:3818" ph="{&quot;Access-Control-Allow-Origin&quot;: &quot;*&quot;...}" />
+            <marker date="1521896955294" expanded="true" signature="3980:4217" ph="{...}" />
+            <marker date="1521896955294" expanded="true" signature="4033:4159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/about.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="69" />
+          <folding>
+            <marker date="1521896955294" expanded="true" signature="9:1216" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="21:1204" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="172:1191" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="1225:1258" ph="..." />
+            <marker date="1521896955294" expanded="true" signature="1243:1248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/profile.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <marker date="1521904185486" expanded="true" signature="9:374" ph="..." />
+            <marker date="1521904185486" expanded="true" signature="23:362" ph="..." />
+            <marker date="1521904185486" expanded="true" signature="127:261" ph="..." />
+            <marker date="1521904185486" expanded="true" signature="286:347" ph="..." />
+            <marker date="1521904185486" expanded="true" signature="384:418" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <marker date="1521901369455" expanded="true" signature="9:2479" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="23:2467" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="43:574" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="69:187" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="273:421" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="653:746" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="875:1778" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="951:1052" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="1118:1222" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="1322:1422" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="1488:1589" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="1655:1759" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="1824:1907" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="2039:2452" ph="..." />
+            <marker date="1521901369455" expanded="true" signature="2488:2518" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/transactions.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="34" column="69" lean-forward="false" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+          <folding>
+            <marker date="1521906203280" expanded="true" signature="9:2593" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="23:2581" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="127:261" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="362:2566" ph="..." />
+            <marker date="1521906203280" expanded="false" signature="402:1088" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="593:1069" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="647:821" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="875:1046" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="1128:1825" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="1319:1806" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="1373:1551" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="1605:1783" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="1865:2551" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="2056:2532" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="2110:2284" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="2338:2509" ph="..." />
+            <marker date="1521906203280" expanded="true" signature="2603:2635" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding>
+            <marker date="1521907916477" expanded="true" signature="15:1049" ph="[...]" />
+            <marker date="1521907916477" expanded="true" signature="19:98" ph="{&quot;path&quot;: '/'...}" />
+            <marker date="1521907916477" expanded="true" signature="102:183" ph="{&quot;path&quot;: '/about/'...}" />
+            <marker date="1521907916477" expanded="true" signature="187:280" ph="{&quot;path&quot;: '/dashboard/'...}" />
+            <marker date="1521907916477" expanded="true" signature="284:373" ph="{&quot;path&quot;: '/profile/'...}" />
+            <marker date="1521907916477" expanded="true" signature="377:476" ph="{&quot;path&quot;: '/transactions/'...}" />
+            <marker date="1521907916477" expanded="true" signature="480:559" ph="{&quot;path&quot;: '/form/'...}" />
+            <marker date="1521907916477" expanded="true" signature="563:686" ph="{&quot;path&quot;: '/dynamic-route/blog/:blogId/post/:postId/'...}" />
+            <marker date="1521907916477" expanded="true" signature="690:781" ph="{&quot;path&quot;: '/panel-left/'...}" />
+            <marker date="1521907916477" expanded="true" signature="785:880" ph="{&quot;path&quot;: '/color-themes/'...}" />
+            <marker date="1521907916477" expanded="true" signature="884:963" ph="{&quot;path&quot;: '/chat/'...}" />
+            <marker date="1521907916477" expanded="true" signature="967:1046" ph="{&quot;path&quot;: '/vuex/'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/dashboard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="35" column="70" lean-forward="false" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#f7-col#0;n#f7-row#0;n#f7-page#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#f7-col#0;n#f7-row#0;n#f7-page#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

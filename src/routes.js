@@ -1,11 +1,23 @@
 export default [
   {
     path: '/',
-    component: require('./assets/vue/pages/home.vue')
+    component: require('./assets/vue/pages/dashboard.vue')
   },
   {
     path: '/about/',
     component: require('./assets/vue/pages/about.vue')
+  },
+  {
+      path: '/dashboard/',
+      component: require('./assets/vue/pages/dashboard.vue')
+  },
+  {
+      path: '/profile/',
+      component: require('./assets/vue/pages/profile.vue')
+  },
+  {
+      path: '/transactions/',
+      component: require('./assets/vue/pages/transactions.vue')
   },
   {
     path: '/form/',
